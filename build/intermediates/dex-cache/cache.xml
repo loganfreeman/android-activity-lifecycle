@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f46edff1ee40fb0be64b03ba08928b94672bcff0">
+        <dex dex="/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27de6d2efbb028e20ffd38a649cde25769750af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0496eebe9ba0f956a475c64c37bcb14cb45f64d4">
+        <dex dex="/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e28c9c6b0a7cfc6580065f3f8c4f12479c450b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/HD2/projects/android/activity-lifecycle/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_81a2064b176f4d378e7cd874f0c7179316c17725/classes.dex" />
+    </item>
+
+</items>

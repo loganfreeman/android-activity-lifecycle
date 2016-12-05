@@ -1,0 +1,7 @@
+#Mon Dec 05 11:10:52 MST 2016
+base.0=/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27de6d2efbb028e20ffd38a649cde25769750af3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e28c9c6b0a7cfc6580065f3f8c4f12479c450b60/classes.dex
+base.1=/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e28c9c6b0a7cfc6580065f3f8c4f12479c450b60
+file.0=/Volumes/HD2/projects/android/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27de6d2efbb028e20ffd38a649cde25769750af3/classes.dex
